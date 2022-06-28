@@ -1,4 +1,4 @@
-# Lenovo m930s AKA m930t-n000 Hackintosh
+# Lenovo m930s-n000 Hackintosh
 
 ## macOS version
 12.4
