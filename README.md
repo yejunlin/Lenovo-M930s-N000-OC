@@ -15,6 +15,8 @@ eGPU: None
 
 Mother Board: Q470
 
+RAM: Samsung 8G 2933MHz DDR4
+
 Ethernet: Intel 1219
 
 NVMe SSD: Hynix PC711
