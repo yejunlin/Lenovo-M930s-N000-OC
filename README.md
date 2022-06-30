@@ -34,23 +34,25 @@ Bluetooth
 
 Hynix PC711 kernel panic (disabled by DTSL)
 
-To be add...
+VGA output
 
-VGA port not working
+To be add...
 
 ## What works
 HDMI and DP dual display
 
 All USB ports
 
+Audio input and ouput
+
 ## Not test yet
 DVI port
 
 Audio-headphone jack/microphone jack
 
-Audio-HDMI output
+HDMI audio output
 
-Audio-DP-ouput
+DP audio ouput
 
 ## Note
 Please gen your own SMBIOS before boot and install!!! Its blank now (And add -v in boot-args if you need)
