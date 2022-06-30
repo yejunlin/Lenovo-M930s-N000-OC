@@ -46,8 +46,6 @@ Audio input and ouput
 ## Not test yet
 DVI port
 
-Audio-headphone jack/microphone jack
-
 HDMI audio output
 
 DP audio ouput
