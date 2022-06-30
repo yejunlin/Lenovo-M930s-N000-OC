@@ -28,8 +28,6 @@ Wireless: Realtek 8822CE
 Audio: Realtek ACL623
 
 ## Known Issues
-Need to unplug and plug in HDMI after hybernation
-
 No driver for Wireless (so no Airdrop/Handoff etc...)
 
 Bluetooth
