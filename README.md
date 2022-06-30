@@ -4,7 +4,7 @@
 12.4
 
 ## OC version
-0.77
+0.7.7
 
 ## PC Configuration
 CPU: i7 10700
@@ -24,6 +24,8 @@ NVMe SSD: Hynix PC711
 SATA HDD: WD WD10EZEX
 
 Wireless: Realtek 8822CE
+
+Audio: Realtek ACL623
 
 ## Issues
 Need to unplug and plug in HDMI after hybernation
