@@ -27,7 +27,7 @@ Wireless: Realtek 8822CE
 
 Audio: Realtek ACL623
 
-## Issues
+## Known Issues
 Need to unplug and plug in HDMI after hybernation
 
 No driver for Wireless (so no Airdrop/Handoff etc...)
@@ -37,8 +37,6 @@ Bluetooth
 Hynix PC711 kernel panic (disabled by DTSL)
 
 VGA output
-
-To be add...
 
 ## What works
 HDMI and DP dual display
