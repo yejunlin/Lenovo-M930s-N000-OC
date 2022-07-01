@@ -23,14 +23,12 @@ NVMe SSD: Hynix PC711
 
 SATA HDD: WD WD10EZEX
 
-Wireless: Realtek 8822CE
+Wireless and Bluetooth: Realtek 8822CE
 
 Audio: Realtek ACL623
 
 ## Known Issues
-No driver for Wireless (so no Airdrop/Handoff etc...)
-
-Bluetooth
+No driver for Wireless and Bluetooth (so no Airdrop/Handoff etc...)
 
 Hynix PC711 kernel panic (disabled by DTSL)
 
