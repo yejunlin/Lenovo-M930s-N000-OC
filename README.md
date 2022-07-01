@@ -37,16 +37,18 @@ VGA output
 ## What works
 HDMI and DP dual display
 
+Ethernet
+
 All USB ports
 
 Audio input and ouput
 
 ## Not test yet
-DVI port
-
 HDMI audio output
 
 DP audio ouput
+
+PS/2 Port
 
 ## Note
 Please gen your own SMBIOS before boot and install!!! Its blank now (And add -v in boot-args if you need)
