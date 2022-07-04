@@ -32,7 +32,7 @@ No driver for Wireless and Bluetooth (so no Airdrop/Handoff etc...)
 
 Hynix PC711 kernel panic (disabled by DTSL)
 
-VGA output
+VGA no output
 
 ## What works
 HDMI and DP dual display
