@@ -30,7 +30,7 @@ Audio: Realtek ACL623
 ## Known Issues
 No driver for Wireless and Bluetooth (so no Airdrop/Handoff etc...)
 
-Hynix PC711 kernel panic (disabled by DTSL)
+Hynix PC711 kernel panic (disabled by DTSL, please refer to note)
 
 VGA no output
 
