@@ -53,3 +53,5 @@ PS/2 Port
 ## Note
 Please gen your own SMBIOS before boot and install!!! Its blank now (And add -v in boot-args if you need)
 
+Apply the patch if you are using Hynix PC711 SSD (replace the folder and file at same path)
+
