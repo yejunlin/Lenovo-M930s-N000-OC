@@ -1,10 +1,10 @@
 # Lenovo m930s-n000 Hackintosh
 
 ## macOS version
-12.4
+12.6
 
 ## OC version
-0.7.7
+0.8.4
 
 ## PC Configuration
 CPU: i7 10700
