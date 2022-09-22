@@ -55,3 +55,24 @@ Please gen your own SMBIOS before boot and install!!! Its blank now (And add -v 
 
 Apply the patch if you are using Hynix PC711 SSD (replace the folder and file at same path)
 
+##BIOS Config
+Secure Boot -> Disable
+
+Display output:IGD 64M Max
+
+ATA: SATA AHCI
+
+Intel Virtualization -> Enable   （VT-x）
+
+VT-d -> Disable
+
+Intel Manageability -> Disable
+
+Intel SXG -> Disable
+
+Intel SIPP -> Disable
+
+CSM->Disable
+
+Boot->UEFI
+
