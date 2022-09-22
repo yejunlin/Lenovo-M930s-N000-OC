@@ -55,7 +55,7 @@ Please gen your own SMBIOS before boot and install!!! Its blank now (And add -v 
 
 Apply the patch if you are using Hynix PC711 SSD (replace the folder and file at same path)
 
-##BIOS Config
+## BIOS Config
 Secure Boot -> Disable
 
 Display output:IGD 64M Max
